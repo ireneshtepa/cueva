@@ -1,5 +1,5 @@
 /* test style sheet for Navigation Bar */
 
-h1 {
+.nav_bar h1 {
     color: Red;
 }
